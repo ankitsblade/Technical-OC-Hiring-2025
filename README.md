@@ -9,7 +9,7 @@ This Repo Consists of Tasks for the selection of the 2025-2026 Technical Heads.
 ### 1. **Fork the Repository**
    - Navigate to the repository on GitHub.
    - Click the **Fork** button on the top right to create a copy of the repository under your GitHub account.
-   - ![forking](assets/forking.jpeg)
+   - ![forking](/forking.jpeg)
 
 
 ### 2. **Clone the Forked Repository to Your Local Machine**
@@ -63,7 +63,7 @@ This Repo Consists of Tasks for the selection of the 2025-2026 Technical Heads.
 
 ### 9. **Open a Pull Request**
 
-![pull_rq](assets/pull_req.png)
+![pull_rq](/pull_req.png)
 
    - Navigate to the original repository on GitHub.
    - You’ll see a message prompting you to open a Pull Request (PR). Click on **Compare & pull request**.
