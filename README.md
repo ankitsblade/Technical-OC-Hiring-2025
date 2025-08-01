@@ -26,7 +26,7 @@ This Repo Consists of Tasks for the selection of the 2025-2026 Technical Heads.
 ### 3. **Navigate to the Corresponding Level/Task Directory**
    - Based on the task you're contributing to, navigate to the appropriate directory. For example:
      ```bash
-     cd Level1/  # or Level0/, Level2/, etc.
+     cd Syscom, cd AI/ML etc.
      ```
 
 ### 4. **Create a Folder Named After Your GitHub Username**
@@ -52,7 +52,7 @@ This Repo Consists of Tasks for the selection of the 2025-2026 Technical Heads.
 ### 7. **Commit Your Changes**
    - Commit the changes with a descriptive message about your contribution:
      ```bash
-     git commit -m "Added contribution for Level<X> : <task_name> by <your_username>"
+     git commit -m "Submitted Task for <xyz> position."
      ```
 
 ### 8. **Push Your Changes to Your Forked Repository**
@@ -69,13 +69,7 @@ This Repo Consists of Tasks for the selection of the 2025-2026 Technical Heads.
    - You’ll see a message prompting you to open a Pull Request (PR). Click on **Compare & pull request**.
    - Add a descriptive title and a comment explaining your contribution.
    - Submit the PR for review.
-
-### 10. **Await Review:**
-   - Maintainers will review your PR. They may request changes or approve it.
-   - Engage respectfully and make necessary adjustments based on feedback.
-
-### 11. **Celebrate Your Contribution:**
-   - Once your PR is merged, you've successfully contributed to Hacktoberfest 2024!
+   - Once your PR is submitted your Task has been **submitted**
 
 
 ### **Checklist Before Submitting a Pull Request**
